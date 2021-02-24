@@ -1,0 +1,8 @@
+body {font-family: 'Calibri';}
+h1, h2 {font-family: "Courier New"; color:red;}
+a:link{ color: red;}
+a:visited{color:green;}
+a:hover{color: red;}
+a:active{color:green}
+ul {list-style: square;}
+ol{list-style: lower-roman;}
